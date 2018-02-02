@@ -1,0 +1,109 @@
+p.intro{
+    box-sizing: border-box;
+    outline-width: 520px;
+    height: 200px;
+    color: cornsilk;
+    text-align: center;
+    box-sizing: border-box;
+    border: 5px solid black;
+}
+h1{
+    margin-bottom:30px;
+    border-bottom-style: solid;
+    font-family: 'Lato', sans-serif;
+    width: auto;
+}
+img.logo{
+   margin-left: inherit;
+    margin-right: 1em;
+    max-width: 50px;
+}
+
+body{
+    background-image:leon;
+    max-width: 100%;
+    background-image: url(http://kb4images.com/images/lion-hd-wallpaper/37520405-lion-hd-wallpaper.jpg);
+    height:auto;
+    width:auto;
+    color:black;
+    font-weight: 300;
+    box-sizing: border-box;
+}
+h2{
+    background-image: url(https://vignette.wikia.nocookie.net/fruit/images/7/7f/Red_and_blue_mixed_colors_background-wide.jpg/revision/latest?cb=20140805094540);
+    color:azure;
+    font-family: 'Open Sans', sans-serif;
+    outline-width: 520px;
+    height: 50px;
+    border: 5px solid gold;
+    font-family: 'Lato', sans-serif;
+    text-align: 2em left;
+    
+}
+h3{
+    text-align: center;
+    font-size: 1em;
+    color: blue;
+}
+p.pro{
+    color:cornsilk;
+   font-family: 'Open Sans', sans-serif;
+    outline-width: 520px;
+    min-width: inherit;
+    height:200px;
+    padding: 10px; 
+    margin-bottom: inherit;
+    box-sizing: border-box;
+    border: 5px solid darkblue;
+}
+
+p.exp{
+    color:cornsilk;
+    font-family: 'Roboto', sans-serif;
+    outline-width: 520px;
+    height:200px;
+    min-width: inherit;
+    padding: 10px;
+    margin-bottom: inherit;
+    box-sizing: border-box;
+    border: 5px solid darkblue;
+}
+li{
+    background-image: url("");
+    margin-left: inherit;
+    color:cornsilk;
+    font-family: 'Lato', sans-serif;
+}
+li.shorter{
+    margin-left: inherit;
+    max-width: 520px;
+}
+img.work{
+    height:150px;
+    width:150px;
+    float:right;
+}
+img.sleep{
+    width:150px;
+    height:150px;
+    float:left;
+}
+img.money{
+    width:150px;
+    height:150px;
+    float:center;
+  
+}
+button{
+    width: inherit;
+}
+img{
+    max-width: 150px;
+    float:left;
+}
+img.k{
+    
+    max-width: 150px;
+    float:right;
+    border-bottom: 10px;
+}
